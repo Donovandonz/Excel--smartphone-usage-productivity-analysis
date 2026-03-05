@@ -351,3 +351,12 @@ The dataset contains information about smartphone users across different demogra
 | Boomers | 3,895 | 3,875 | 3,896 | Female/Other (tie) |
 | Silent Gen | 2,316 | 2,355 | 2,316 | Male (by 39) |
 
+
+---
+
+## Dasboard Overview
+-<a href="https://github.com/Donovandonz/Excel--smartphone-usage-productivity-analysis/blob/main/Smartphone-usage-productivity-dashboard.png">Smartphone-usage-productivity-dashboard</a>
+
+<img width="2161" height="1417" alt="Smartphone-usage-productivity-dashboard" src="https://github.com/user-attachments/assets/84afa9eb-a83f-4aa9-9a79-db416c7780ec" />
+
+
